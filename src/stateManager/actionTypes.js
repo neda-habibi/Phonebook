@@ -1,0 +1,5 @@
+export const ADD_CLICKED = 'ADD_CLICKED';
+export const CANCEL_CLICKED = 'CANCEL_CLICKED';
+export const SAVE_CLICKED = 'SAVE_CLICKED';
+export const DELETE_CLICKED = 'DELETE_CLICKED';
+export const EDIT_CLICKED = 'EDIT_CLICKED';
