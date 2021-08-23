@@ -5,11 +5,11 @@ This is a web phonebook App which you can simply add, edit, delete and search co
 
 ## How to run
 
-You need to install modules using `npm i`.
+You need to install modules using `npm i`.  
 
-The second step is to run the project using `npm start`
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.\
+The second step is to run the project using `npm start`  
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.  
+The page will reload if you make edits.  
 You will also see any lint errors in the console.
 
 ### Available Scripts
